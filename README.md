@@ -83,18 +83,6 @@ My expertise spans **Java, C++, React.js, SQL, System Design, Data Structures & 
 
 ---
 
-# AI / ML Expertise
-
-| Domain                 | Proficiency  | Details                                            |
-| ---------------------- | ------------ | -------------------------------------------------- |
-| Machine Learning       | Advanced     | Model development, feature engineering, evaluation |
-| Generative AI          | Advanced     | LLMs, Prompt Engineering, AI Applications          |
-| AI Product Development | Advanced     | AI-driven software solutions                       |
-| Data Analysis          | Advanced     | Data processing and insights generation            |
-| Deep Learning          | Intermediate | Neural network fundamentals                        |
-| AI Integration         | Advanced     | Production-ready AI systems                        |
-
----
 
 # Featured Projects
 
@@ -158,25 +146,6 @@ A banking simulator replicating real-world ATM transactions including deposits, 
 
 </details>
 
-<details>
-<summary><b>🤖 Query By Singing / Humming</b></summary>
-
-### Music Information Retrieval System
-
-| Category    | Details                      |
-| ----------- | ---------------------------- |
-| Stack       | AI, Signal Processing, ML    |
-| Scale       | Audio Pattern Matching       |
-| Performance | Optimized retrieval workflow |
-| Security    | Controlled access            |
-| Impact      | Intelligent music discovery  |
-| Repository  | Add Repository Link          |
-
-#### Overview
-
-An AI-powered music retrieval solution enabling users to search songs through humming or singing patterns.
-
-</details>
 
 ---
 
@@ -266,17 +235,11 @@ Selected to represent Google's Gemini AI initiatives and promote AI literacy thr
 <img src="https://img.shields.io/badge/LeetCode-Problem%20Solver-FFA116?style=for-the-badge&logo=leetcode"/>
 </a>
 
-<a href="https://www.geeksforgeeks.org">
-<img src="https://img.shields.io/badge/GeeksforGeeks-Coding%20Profile-0F9D58?style=for-the-badge&logo=geeksforgeeks"/>
-</a>
 
 <a href="https://www.hackerrank.com">
 <img src="https://img.shields.io/badge/HackerRank-Developer-00EA64?style=for-the-badge&logo=hackerrank"/>
 </a>
 
-<a href="https://www.codechef.com">
-<img src="https://img.shields.io/badge/CodeChef-Competitive%20Programming-5B4638?style=for-the-badge"/>
-</a>
 
 </p>
 
