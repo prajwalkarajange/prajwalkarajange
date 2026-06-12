@@ -316,13 +316,18 @@ Selected to represent Google's Gemini AI initiatives and promote AI literacy thr
 
 ---
 
-# Contribution Snake
+## 🐍 Contribution Snake
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/prajwalkarajange/prajwalkarajange/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/prajwalkarajange/prajwalkarajange/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/prajwalkarajange/prajwalkarajange/output/github-snake.svg">
+    <img alt="github contribution snake"
+      src="https://raw.githubusercontent.com/prajwalkarajange/prajwalkarajange/output/github-snake.svg">
+  </picture>
+</p>
 
 ---
 
