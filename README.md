@@ -1,209 +1,387 @@
-<!-- ============================================================ -->
-<!--   PRAJWAL KARAJANGE — GitHub Profile README                  -->
-<!--   HOW TO USE:                                                 -->
-<!--   1. Go to github.com → New Repository                       -->
-<!--   2. Name it exactly: prajwalkarajange                       -->
-<!--   3. Make it Public → Check "Add README" → Create            -->
-<!--   4. Edit README.md → Select All → Delete → Paste this       -->
-<!--   5. Click "Commit changes" — Done!                          -->
-<!-- ============================================================ -->
+# <div align="center">
 
-<h1 align="center">
-  Hi, I'm Prajwal Karajange 👋
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:4F46E5,50:7C3AED,100:A855F7&text=Prajwal%20Karajange&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40" width="100%"/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=28&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=1000&lines=Full+Stack+Developer;Software+Engineer;AI+%26+Machine+Learning+Enthusiast;Open+Source+Contributor;Google+Student+Ambassador+-+Gemini+AI" />
+
+<br/>
+
+![B.Tech](https://img.shields.io/badge/B.Tech-Information%20Technology-7C3AED?style=for-the-badge)
+![CGPA](https://img.shields.io/badge/CGPA-9.18%2F10-A855F7?style=for-the-badge)
+![University Topper](https://img.shields.io/badge/University-Topper-4F46E5?style=for-the-badge)
+
+![Location](https://img.shields.io/badge/Location-Maharashtra%2C%20India-7C3AED?style=flat-square)
+
+<a href="https://github.com/prajwalkarajange">
+<img src="https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge"/>
+</a>
+
+<a href="https://linkedin.com/in/prajwal-karajange">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-4F46E5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:prajwalkarajange0409@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-A855F7?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://github.com/prajwalkarajange">
+<img src="https://img.shields.io/badge/GitHub-Follow-111827?style=for-the-badge&logo=github"/>
+</a>
+
+<br/>
+
+![](https://komarev.com/ghpvc/?username=prajwalkarajange\&style=flat-square\&color=7C3AED)
+![](https://img.shields.io/github/followers/prajwalkarajange?style=flat-square\&color=7C3AED)
+![](https://img.shields.io/github/stars/prajwalkarajange?style=flat-square\&color=A855F7)
+
+</div>
+
+---
+
+# About Me
+
+I am a **Full Stack Developer and Software Engineering enthusiast** focused on building scalable applications, intelligent systems, and enterprise-grade solutions.
+
+My expertise spans **Java, C++, React.js, SQL, System Design, Data Structures & Algorithms, and AI-driven software development**. I enjoy transforming ideas into production-ready applications while maintaining strong engineering principles, security standards, and performance optimization.
+
+### Open To
+
+* Software Engineering Internships
+* Full Stack Development Roles
+* AI / ML Projects
+* Open Source Contributions
+* Research Collaborations
+* Product Engineering Opportunities
+
+---
+
+# Tech Stack
+
+## Languages
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7F77DD&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Java+%7C+React+%7C+MySQL+%7C+Python;University+Topper+%7C+9.18+CGPA;Google+Student+Ambassador+%F0%9F%A4%96;Open+to+SDE+Internships+%26+Placements+2026" alt="Typing SVG" />
-  </a>
+<img src="https://skillicons.dev/icons?i=java,cpp,c,python,javascript" />
+</p>
+
+## Frontend
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,html,css,figma" />
+</p>
+
+## Backend & Databases
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,mysql" />
+</p>
+
+## Cloud, DevOps & Tooling
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,idea" />
 </p>
 
 ---
 
-## 🙋‍♂️ About Me
+# AI / ML Expertise
 
-```java
-public class Prajwal {
+| Domain                 | Proficiency  | Details                                            |
+| ---------------------- | ------------ | -------------------------------------------------- |
+| Machine Learning       | Advanced     | Model development, feature engineering, evaluation |
+| Generative AI          | Advanced     | LLMs, Prompt Engineering, AI Applications          |
+| AI Product Development | Advanced     | AI-driven software solutions                       |
+| Data Analysis          | Advanced     | Data processing and insights generation            |
+| Deep Learning          | Intermediate | Neural network fundamentals                        |
+| AI Integration         | Advanced     | Production-ready AI systems                        |
 
-    String name        = "Prajwal Ratankumar Karajange";
-    String role        = "Full Stack Developer";
-    String college     = "Dr. J.J. Magdum College of Engineering, Jaysingpur";
-    String degree      = "B.Tech in Information Technology (2023–2027)";
-    double cgpa        = 9.18;
-    String location    = "Maharashtra, India 📍";
-    String status      = "Open to SDE Internships & Placements 2026 🚀";
+---
 
-    String[] languages = {"Java", "C++", "Python", "JavaScript", "C"};
-    String[] frontend  = {"React JS", "HTML5", "CSS3"};
-    String[] backend   = {"Core Java", "OOP", "Multithreading"};
-    String[] databases = {"MySQL", "SQL"};
-    String[] tools     = {"Git", "GitHub", "Linux", "VS Code", "IntelliJ", "Figma"};
-    String[] concepts  = {"DSA", "DBMS", "OOP", "OS", "Computer Networks"};
+# Featured Projects
 
-    String funFact     = "I debug with coffee ☕ and solve problems with logic 🧠";
-}
+<details>
+<summary><b>🔐 Secure Vault</b></summary>
+
+### Enterprise Credential Management Platform
+
+| Category    | Details                                 |
+| ----------- | --------------------------------------- |
+| Stack       | Java, MySQL, AES-256, RBAC              |
+| Scale       | Multi-user secure environment           |
+| Performance | Optimized encrypted storage             |
+| Security    | AES-256, MFA, Salted Hashing            |
+| Impact      | Reduced unauthorized access risk by 90% |
+| Repository  | Add Repository Link                     |
+
+#### Overview
+
+Secure Vault is a highly secure credential management system designed with industry-standard encryption and authentication mechanisms. The application implements role-based access control and secure credential storage for enterprise-grade security.
+
+</details>
+
+<details>
+<summary><b>🚗 Car Rental System</b></summary>
+
+### Automated Rental Management Platform
+
+| Category    | Details                                |
+| ----------- | -------------------------------------- |
+| Stack       | Java, MySQL, OOP                       |
+| Scale       | Vehicle, Customer & Booking Management |
+| Performance | Automated pricing workflows            |
+| Security    | Validated booking operations           |
+| Impact      | Reduced manual work by 80%             |
+| Repository  | Add Repository Link                    |
+
+#### Overview
+
+A complete rental automation system featuring dynamic pricing, vehicle management, booking workflows, and persistent data storage.
+
+</details>
+
+<details>
+<summary><b>🏦 ATM System Simulation</b></summary>
+
+### Banking Operations Simulator
+
+| Category    | Details                            |
+| ----------- | ---------------------------------- |
+| Stack       | Java, OOP, Exception Handling      |
+| Scale       | Multi-operation banking simulation |
+| Performance | Modular architecture               |
+| Security    | PIN Authentication                 |
+| Impact      | Reduced system errors by 40%       |
+| Repository  | Add Repository Link                |
+
+#### Overview
+
+A banking simulator replicating real-world ATM transactions including deposits, withdrawals, authentication, and account management.
+
+</details>
+
+<details>
+<summary><b>🤖 Query By Singing / Humming</b></summary>
+
+### Music Information Retrieval System
+
+| Category    | Details                      |
+| ----------- | ---------------------------- |
+| Stack       | AI, Signal Processing, ML    |
+| Scale       | Audio Pattern Matching       |
+| Performance | Optimized retrieval workflow |
+| Security    | Controlled access            |
+| Impact      | Intelligent music discovery  |
+| Repository  | Add Repository Link          |
+
+#### Overview
+
+An AI-powered music retrieval solution enabling users to search songs through humming or singing patterns.
+
+</details>
+
+---
+
+# Experience
+
+## Software Development Intern
+
+### Code Tech IT Solution
+
+**Apr 2025 – May 2025**
+
+Developed high-performance software systems with focus on optimization, scalability, and reliability.
+
+#### Responsibilities
+
+* Built multithreaded file compression solutions
+* Improved processing efficiency by 30%
+* Optimized file I/O operations
+* Implemented robust exception handling
+* Collaborated remotely in development workflows
+
+**Skills:** `C++` `Multithreading` `File Systems` `Git` `Debugging`
+
+---
+
+## Google Student Ambassador – Gemini AI Program
+
+### Google
+
+**Jul 2026 – Present**
+
+Selected to represent Google's Gemini AI initiatives and promote AI literacy through community engagement.
+
+#### Responsibilities
+
+* Conduct AI workshops
+* Lead student initiatives
+* Promote Gemini AI adoption
+* Build technical communities
+* Mentor students in AI technologies
+
+**Skills:** `AI` `Leadership` `Public Speaking` `Community Building`
+
+---
+
+# Achievements
+
+<div align="center">
+
+| Recognition                      | Details                                                  |
+| -------------------------------- | -------------------------------------------------------- |
+| 🏆 University Topper             | Highest academic performance across engineering branches |
+| 🏆 Department Topper (IT)        | Ranked #1 in Information Technology Department           |
+| 🚀 Hackathon Finalist            | Recognized for innovation and engineering excellence     |
+| 🥇 Codex Java Competition Winner | Competitive programming and software design excellence   |
+| 🌟 Google Student Ambassador     | Selected for Gemini AI Program                           |
+
+</div>
+
+---
+
+# Certifications
+
+### AWS
+
+![AWS](https://img.shields.io/badge/AWS-Certified-FF9900?style=for-the-badge\&logo=amazonaws)
+
+### Oracle
+
+![Oracle](https://img.shields.io/badge/Oracle-Certified-F80000?style=for-the-badge\&logo=oracle)
+
+### NPTEL
+
+![NPTEL](https://img.shields.io/badge/NPTEL-Certified-7C3AED?style=for-the-badge)
+
+### Cisco
+
+![Cisco](https://img.shields.io/badge/Cisco-Certified-1BA0D7?style=for-the-badge\&logo=cisco)
+
+---
+
+# Coding Profiles
+
+<p align="center">
+
+<a href="https://leetcode.com">
+<img src="https://img.shields.io/badge/LeetCode-Problem%20Solver-FFA116?style=for-the-badge&logo=leetcode"/>
+</a>
+
+<a href="https://www.geeksforgeeks.org">
+<img src="https://img.shields.io/badge/GeeksforGeeks-Coding%20Profile-0F9D58?style=for-the-badge&logo=geeksforgeeks"/>
+</a>
+
+<a href="https://www.hackerrank.com">
+<img src="https://img.shields.io/badge/HackerRank-Developer-00EA64?style=for-the-badge&logo=hackerrank"/>
+</a>
+
+<a href="https://www.codechef.com">
+<img src="https://img.shields.io/badge/CodeChef-Competitive%20Programming-5B4638?style=for-the-badge"/>
+</a>
+
+</p>
+
+---
+
+# GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=prajwalkarajange&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prajwalkarajange&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=prajwalkarajange&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=prajwalkarajange&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10"/>
+
+</div>
+
+---
+
+# Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=prajwalkarajange&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/prajwalkarajange/prajwalkarajange/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+# Current Focus
+
+```yaml
+Learning:
+  - Advanced System Design
+  - Cloud Architecture
+  - Generative AI
+  - Large Language Models
+
+Building:
+  - Full Stack Applications
+  - AI Powered Products
+  - Open Source Projects
+
+Exploring:
+  - Distributed Systems
+  - DevOps Engineering
+  - Scalable Backend Systems
+
+Open_To:
+  - Software Engineering Internships
+  - AI/ML Opportunities
+  - Product Development Roles
+  - Open Source Collaborations
 ```
 
 ---
 
-## 🛠️ Tech Stack
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-</p>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-</p>
-
----
-
-## 💼 Experience
-
-### 🖥️ Software Development Intern — Code Tech IT Solution *(Apr 2025 – May 2025 | Remote)*
-- Built a **multithreaded file compression tool in C++**, improving processing efficiency by **30%**
-- Applied optimized file I/O, efficient data structures, and exception handling
-- Reduced runtime errors through debugging and software optimization
-
-### 🤖 Google Student Ambassador — Gemini AI Program *(Jul 2026 – Present)*
-- Selected by Google to promote Gemini AI through workshops and campus engagement
-- Led community activities to drive practical adoption of AI tools among students
-- Strengthened leadership, communication, and community-building skills
-
----
-
-## 🚀 Featured Projects
-
-### 🔐 [Secure Vault](https://github.com/prajwalkarajange/SecureVault) — *Credential Manager*
-> Enterprise-grade secure credential manager with military-grade encryption
-
-| Feature | Detail |
-|---------|--------|
-| 🔒 Encryption | AES-256 with salted hashing for master password |
-| 👥 Access Control | Role-Based Access Control (RBAC) with fine-grained permissions |
-| 🔑 Authentication | Multi-Factor Authentication (MFA) |
-| 📊 Security Impact | **90% reduction** in unauthorized access risk |
-
-`Java` `MySQL` `AES-256` `RBAC` `MFA` `Salted Hashing`
-
----
-
-### 🏦 [ATM System Simulation](https://github.com/prajwalkarajange/ATM-SYSTEM-IN-JAVA) — *Banking Simulation*
-> Full-featured ATM simulation replicating real-world banking workflows
-
-| Feature | Detail |
-|---------|--------|
-| 🔐 Security | PIN-based auth with multi-layer input validation |
-| 💰 Operations | Withdrawal, deposit, balance inquiry, secure exit |
-| 🏗️ Architecture | OOP design — auth, transaction & account modules separated |
-| 📉 Error Reduction | **40% fewer** system errors via comprehensive exception handling |
-
-`Java` `OOP` `Exception Handling` `PIN Auth` `Control Structures`
-
----
-
-### 🚗 [Car Rental System](https://github.com/prajwalkarajange/Car-Rental-System) — *Rental Management*
-> End-to-end car rental management with full process automation
-
-| Feature | Detail |
-|---------|--------|
-| 🚘 Management | Vehicles, customers, bookings managed end-to-end |
-| 💲 Pricing | Dynamic pricing logic using inheritance and polymorphism |
-| 📦 Storage | Persistent MySQL storage for scalable data management |
-| 📉 Efficiency | **80% less** manual tracking, **60% fewer** pricing discrepancies |
-
-`Java` `OOP` `MySQL` `Dynamic Pricing` `Inheritance` `Polymorphism`
-
----
-
-## 🏅 Achievements
-
-| 🏆 | Award | Details |
-|----|-------|---------|
-| 🥇 | **University Topper (1st Rank)** | Highest marks across ALL branches — Shivaji University |
-| 🏆 | **Hackathon 2025 Winner** | Competitive programming & system design excellence |
-| 🎯 | **Codex Java Champion** | Winner of department Java programming competition |
-| 🤖 | **Google AI Ambassador** | Selected for Gemini AI campus outreach program |
-| 🎓 | **Department Topper (IT)** | Top performer in Information Technology dept |
-
----
-
-## 📊 GitHub Stats
+# Connect
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prajwalkarajange&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prajwalkarajange&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=prajwalkarajange&theme=tokyonight&hide_border=true" />
-</p>
+<a href="mailto:prajwalkarajange0409@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail"/>
+</a>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=prajwalkarajange&theme=tokyonight&no-frame=true&column=6&margin-w=10" />
+<a href="https://linkedin.com/in/prajwal-karajange">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://github.com/prajwalkarajange">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://github.com/prajwalkarajange">
+<img src="https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge"/>
+</a>
+
 </p>
 
 ---
 
-## 📚 Currently Learning
+<div align="center">
 
-- 🌐 Advanced React (Hooks, Context API, Redux)
-- ☁️ Cloud fundamentals (AWS / GCP basics)
-- 🤖 Generative AI & LLMs
-- 🔧 System Design for SDE interviews
+*"Engineering scalable solutions, building intelligent systems, and creating impact through technology."*
 
----
+</div>
 
-## 💬 What I'm Looking For
-
-> I'm actively seeking **SDE internships and full-time placements for 2026** where I can
-> contribute to scalable, secure, and impactful software. Strong fundamentals in Java,
-> OOP, DSA, and full-stack development — backed by a 9.18 CGPA and real project experience.
-
----
-
-## 📫 Connect With Me
-
-<p align="left">
-  <a href="https://linkedin.com/in/prajwal-karajange" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:prajwalkarajange0409@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/prajwalkarajange">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
-📧 **Email:** prajwalkarajange0409@gmail.com
-💼 **LinkedIn:** [linkedin.com/in/prajwal-karajange](https://linkedin.com/in/prajwal-karajange)
-📱 **Phone:** +91-9890924561
-📍 **Location:** Salgare, Maharashtra, India
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=prajwalkarajange&color=7F77DD&style=flat&label=Profile+Views" />
-</p>
-
-<p align="center">
-  <i>"Code is not just syntax — it's solutions."</i>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:4F46E5,50:7C3AED,100:A855F7"/>
