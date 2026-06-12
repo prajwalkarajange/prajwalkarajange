@@ -259,13 +259,11 @@ Selected to represent Google's Gemini AI initiatives and promote AI literacy thr
 
 ---
 
-# GitHub Trophies
+## 🏆 Developer Insights
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=prajwalkarajange&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10"/>
-
-</div>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prajwalkarajange&theme=tokyonight" />
+</p>
 
 ---
 
