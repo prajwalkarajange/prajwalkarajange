@@ -2,8 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:4F46E5,50:7C3AED,100:A855F7&text=Prajwal%20Karajange&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40" width="100%"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=28&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=1000&lines=Full+Stack+Developer;Software+Engineer;AI+%26+Machine+Learning+Enthusiast;Open+Source+Contributor;Google+Student+Ambassador+-+Gemini+AI" />
- 
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=28&duration=3000&pause=1200&color=A855F7&center=true&vCenter=true&width=1000&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+React.js+Developer;AI-Powered+Application+Developer;Software+Engineer+Intern+%40+CloseKart;Google+Student+Ambassador+-+Gemini+AI;GeeksforGeeks+Campus+Mantri+2026;Building+Scalable+Software" />
 <br/>
 
 ![B.Tech](https://img.shields.io/badge/B.Tech-Information%20Technology-7C3AED?style=for-the-badge)
@@ -38,11 +37,17 @@
 
 ---
 
-# About Me
+# 👨‍💻 About Me
 
-I am a **Full Stack Developer and Software Engineering enthusiast** focused on building scalable applications, intelligent systems, and enterprise-grade solutions.
+I'm a **Java Full Stack Developer** passionate about designing and developing scalable software solutions that combine modern web technologies with Artificial Intelligence.
 
-My expertise spans **Java, C++, React.js, SQL, System Design, Data Structures & Algorithms, and AI-driven software development**. I enjoy transforming ideas into production-ready applications while maintaining strong engineering principles, security standards, and performance optimization.
+My expertise includes **Spring Boot, React.js, TypeScript, MySQL, PostgreSQL, REST APIs, Docker, and Generative AI**, with practical experience building production-ready applications, enterprise systems, and AI-powered platforms.
+
+Currently working as a **Software Engineer Intern at CloseKart**, I focus on building maintainable software, improving application performance, and developing reusable components that follow clean coding principles.
+
+Outside development, I represent **Google's Gemini AI Program** as a **Google Student Ambassador** and serve as a **GeeksforGeeks Campus Mantri**, helping students explore software engineering and AI technologies.
+
+🚀 I'm always excited to build impactful products, contribute to innovative ideas, and collaborate on challenging software engineering projects.
 
 ### Open To
 
@@ -55,139 +60,208 @@ My expertise spans **Java, C++, React.js, SQL, System Design, Data Structures & 
 
 ---
 
-# Tech Stack
+# 💻 Tech Stack
 
-## Languages
+<div align="center">
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=java,cpp,c,python,javascript" />
-</p>
+## 👨‍💻 Programming Languages
 
-## Frontend
+<img src="https://skillicons.dev/icons?i=java,cpp,python,javascript,typescript" />
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=react,html,css,figma" />
-</p>
+<br><br>
 
-## Backend & Databases
+## 🎨 Frontend Development
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=java,mysql" />
-</p>
+<img src="https://skillicons.dev/icons?i=react,html,css,bootstrap,tailwind" />
 
-## Cloud, DevOps & Tooling
+<br><br>
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,idea" />
-</p>
+## ⚙️ Backend Development
 
----
+<img src="https://skillicons.dev/icons?i=java,spring" />
 
+<br><br>
 
-# Featured Projects
+## 🗄️ Database & ORM
 
-<details>
-<summary><b>🔐 Secure Vault</b></summary>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,supabase,hibernate" />
 
-### Enterprise Credential Management Platform
+<br><br>
 
-| Category    | Details                                 |
-| ----------- | --------------------------------------- |
-| Stack       | Java, MySQL, AES-256, RBAC              |
-| Scale       | Multi-user secure environment           |
-| Performance | Optimized encrypted storage             |
-| Security    | AES-256, MFA, Salted Hashing            |
-| Impact      | Reduced unauthorized access risk by 90% |
-| Repository  | Add Repository Link                     |
+## ☁️ DevOps & Development Tools
 
-#### Overview
+<img src="https://skillicons.dev/icons?i=git,github,docker,maven,postman,vscode,idea,eclipse,linux" />
 
-Secure Vault is a highly secure credential management system designed with industry-standard encryption and authentication mechanisms. The application implements role-based access control and secure credential storage for enterprise-grade security.
+<br><br>
 
-</details>
+## 🤖 AI & Cloud Technologies
 
-<details>
-<summary><b>🚗 Car Rental System</b></summary>
+<img src="https://skillicons.dev/icons?i=vercel" />
 
-### Automated Rental Management Platform
+<br>
 
-| Category    | Details                                |
-| ----------- | -------------------------------------- |
-| Stack       | Java, MySQL, OOP                       |
-| Scale       | Vehicle, Customer & Booking Management |
-| Performance | Automated pricing workflows            |
-| Security    | Validated booking operations           |
-| Impact      | Reduced manual work by 80%             |
-| Repository  | Add Repository Link                    |
+<img src="https://img.shields.io/badge/Gemini_AI-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/Generative_AI-8E44AD?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Prompt_Engineering-6C5CE7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge"/>
 
-#### Overview
+<br><br>
 
-A complete rental automation system featuring dynamic pricing, vehicle management, booking workflows, and persistent data storage.
+## 📚 Computer Science Fundamentals
 
-</details>
+<img src="https://img.shields.io/badge/Data%20Structures%20&%20Algorithms-00599C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Object%20Oriented%20Programming-E34F26?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DBMS-336791?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Microservices-6DB33F?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MVC%20Architecture-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge"/>
 
-<details>
-<summary><b>🏦 ATM System Simulation</b></summary>
-
-### Banking Operations Simulator
-
-| Category    | Details                            |
-| ----------- | ---------------------------------- |
-| Stack       | Java, OOP, Exception Handling      |
-| Scale       | Multi-operation banking simulation |
-| Performance | Modular architecture               |
-| Security    | PIN Authentication                 |
-| Impact      | Reduced system errors by 40%       |
-| Repository  | Add Repository Link                |
-
-#### Overview
-
-A banking simulator replicating real-world ATM transactions including deposits, withdrawals, authentication, and account management.
-
-</details>
-
+</div>
 
 ---
 
-# Experience
 
-## Software Development Intern
+# 🚀 Featured Projects
 
-### Code Tech IT Solution
+<details open>
+<summary><b>🧵 ThreadCounty – AI Powered Textile Intelligence Platform</b></summary>
 
-**Apr 2025 – May 2025**
+### AI-Powered SaaS Platform for Fabric Analysis
 
-Developed high-performance software systems with focus on optimization, scalability, and reliability.
+| Category | Details |
+|-----------|---------|
+| **Tech Stack** | React.js • TypeScript • Supabase • Gemini AI • Vercel |
+| **Architecture** | SaaS • Authentication • Dashboard • Cloud Deployment |
+| **Key Features** | AI Fabric Analysis, PDF Reports, Upload History, Analytics Dashboard |
+| **Impact** | Automated fabric quality inspection workflow by **85%** |
+| **Live Demo** | Add Live Link |
+| **Repository** | Add GitHub Link |
 
-#### Responsibilities
+#### Highlights
 
-* Built multithreaded file compression solutions
-* Improved processing efficiency by 30%
-* Optimized file I/O operations
-* Implemented robust exception handling
-* Collaborated remotely in development workflows
+- 🤖 AI-powered fabric analysis using **Google Gemini AI**
+- 🔐 Secure authentication with **Supabase Auth**
+- 📊 Interactive analytics dashboard
+- 📄 Automated AI report generation with PDF export
+- ☁️ Fully deployed on **Vercel**
+- 📱 Responsive modern UI built with React & TypeScript
 
-**Skills:** `C++` `Multithreading` `File Systems` `Git` `Debugging`
+</details>
 
 ---
 
-## Google Student Ambassador – Gemini AI Program
+<details>
+<summary><b>💼 Enterprise Job Portal Platform</b></summary>
 
-### Google
+### Full Stack Recruitment Management System
 
-**Jul 2026 – Present**
+| Category | Details |
+|-----------|---------|
+| **Tech Stack** | Java • Spring Boot • JPA • Hibernate • MySQL • Docker |
+| **Architecture** | REST APIs • Layered Architecture • MVC |
+| **Key Features** | CRUD Operations, Authentication, Job & Applicant Management |
+| **Impact** | Reduced manual recruitment workflow by **80%** |
+| **Live Demo** | Add Live Link |
+| **Repository** | Add GitHub Link |
 
-Selected to represent Google's Gemini AI initiatives and promote AI literacy through community engagement.
+#### Highlights
 
-#### Responsibilities
+- ⚙ Built using **Spring Boot** and **Hibernate**
+- 🔗 RESTful API architecture
+- 🗄 Database integration with MySQL
+- 🐳 Dockerized deployment
+- 📦 Maven-based project structure
+- ☁ Cloud deployed application
 
-* Conduct AI workshops
-* Lead student initiatives
-* Promote Gemini AI adoption
-* Build technical communities
-* Mentor students in AI technologies
+</details>
 
-**Skills:** `AI` `Leadership` `Public Speaking` `Community Building`
+---
+
+<details>
+<summary><b>🔐 SecureVault – Enterprise Password Manager</b></summary>
+
+### Secure Credential Management System
+
+| Category | Details |
+|-----------|---------|
+| **Tech Stack** | Java • MySQL • AES-256 Encryption • RBAC |
+| **Architecture** | Secure Authentication • Encryption • Role-Based Access |
+| **Key Features** | Credential Management, Password Generator, Secure Storage |
+| **Impact** | Reduced unauthorized access risk by **90%** |
+| **Repository** | Add GitHub Link |
+
+#### Highlights
+
+- 🔒 AES-256 encrypted credential storage
+- 👥 Role-Based Access Control (RBAC)
+- 🔑 Secure authentication system
+- ⚡ Optimized MySQL database queries
+- 🛡 Enterprise-grade security practices
+
+</details>
+
+# 💼 Professional Experience
+
+## 💻 Software Engineer Intern | CloseKart
+
+**📅 Jun 2026 – Present**  
+**📍 Remote**
+
+> Contributing to the development of scalable web applications using Java and React while collaborating with cross-functional teams to deliver production-ready features.
+
+### 🚀 Key Contributions
+
+- Developed **10+ reusable React.js components** to improve UI consistency and maintainability.
+- Built backend modules using **Java, Servlets, JSP, and MySQL**.
+- Implemented new features, fixed bugs, and optimized application performance.
+- Collaborated using **Git & GitHub** following clean coding and version control practices.
+- Participated in debugging, testing, and code reviews to ensure software quality.
+
+**🛠 Tech Stack**
+
+`Java` `React.js` `Servlets` `JSP` `MySQL` `Git` `GitHub`
+
+---
+
+## ⚙️ Software Development Intern | Code Tech IT Solution
+
+**📅 Apr 2025 – May 2025**  
+**📍 Remote**
+
+> Worked on system-level software projects with a focus on performance optimization, multithreading, and efficient file processing.
+
+### 🚀 Key Contributions
+
+- Developed a **Multithreaded File Compression Tool** in C++.
+- Optimized file handling and processing using multithreading concepts.
+- Applied **Object-Oriented Programming** principles and efficient algorithms.
+- Performed debugging, testing, and code optimization.
+- Used Git for version control and collaborative development.
+
+**🛠 Tech Stack**
+
+`C++` `Multithreading` `OOP` `File Handling` `Git`
+
+---
+
+## 🤖 Google Student Ambassador – Gemini AI Program | Google
+
+**📅 Feb 2026 – Present**  
+**📍 Remote**
+
+> Selected to represent Google's Gemini AI initiatives and promote AI awareness within the student developer community.
+
+### 🚀 Responsibilities
+
+- Organized AI awareness sessions and technical initiatives.
+- Promoted **Google Gemini AI** and Generative AI technologies.
+- Mentored students interested in AI and software development.
+- Built technical communities through workshops and events.
+- Encouraged adoption of modern AI development practices.
+
+**🛠 Skills**
+
+`Generative AI` `Gemini AI` `Leadership` `Community Building` `Public Speaking`
 
 ---
 
@@ -249,9 +323,7 @@ Selected to represent Google's Gemini AI initiatives and promote AI literacy thr
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=prajwalkarajange&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prajwalkarajange&layout=compact&theme=tokyonight&hide_border=true"/>
 
 <img height="180em" src="https://streak-stats.demolab.com?user=prajwalkarajange&theme=tokyonight&hide_border=true"/>
 
@@ -299,34 +371,31 @@ Selected to represent Google's Gemini AI initiatives and promote AI literacy thr
 </p>
 
 ---
-
-# Current Focus
+# 🎯 Current Focus
 
 ```yaml
 Learning:
-  - Advanced System Design
-  - Cloud Architecture
-  - Generative AI
-  - Large Language Models
+  - System Design
+  - Microservices Architecture
+  - Cloud Computing
+  - Large Language Models (LLMs)
 
 Building:
-  - Full Stack Applications
-  - AI Powered Products
-  - Open Source Projects
+  - Enterprise Java Applications
+  - AI-Powered Web Applications
+  - Full Stack SaaS Platforms
 
 Exploring:
-  - Distributed Systems
-  - DevOps Engineering
+  - Generative AI
   - Scalable Backend Systems
+  - DevOps & Cloud Deployment
 
 Open_To:
-  - Software Engineering Internships
-  - AI/ML Opportunities
-  - Product Development Roles
-  - Open Source Collaborations
+  - Software Engineer Roles
+  - Java Full Stack Developer Opportunities
+  - AI & Backend Engineering
+  - Innovative Product Development
 ```
-
----
 
 # Connect
 
