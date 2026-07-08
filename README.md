@@ -253,11 +253,9 @@ Selected to represent Google's Gemini AI initiatives and promote AI literacy thr
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prajwalkarajange&layout=compact&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=prajwalkarajange&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://streak-stats.demolab.com?user=prajwalkarajange&theme=tokyonight&hide_border=true"/>
 
 </div>
-
----
 
 ## 🏆 Developer Insights
 
@@ -274,6 +272,16 @@ Selected to represent Google's Gemini AI initiatives and promote AI literacy thr
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=prajwalkarajange&theme=tokyo-night&hide_border=true"/>
 
 </div>
+
+---
+
+---
+
+# 🌍 3D Contribution Calendar
+
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Calendar" width="100%">
+</p>
 
 ---
 
