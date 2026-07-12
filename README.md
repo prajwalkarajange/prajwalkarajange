@@ -11,7 +11,7 @@
 
 ![Location](https://img.shields.io/badge/Location-Maharashtra%2C%20India-7C3AED?style=flat-square)
 
-<a href="https://github.com/prajwalkarajange">
+<a href="https://prajwal-portfoilio.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge"/>
 </a>
 
@@ -416,7 +416,7 @@ Open_To:
 <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://github.com/prajwalkarajange">
+<a href="https://prajwal-portfoilio.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge"/>
 </a>
 
