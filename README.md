@@ -345,7 +345,7 @@ Outside development, I represent **Google's Gemini AI Program** as a **Google St
 
 </div>
 
----
+
 
 ---
 
