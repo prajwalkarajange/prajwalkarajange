@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:4F46E5,50:7C3AED,100:A855F7&text=Prajwal%20Karajange&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40" width="100%"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=28&duration=3000&pause=1200&color=A855F7&center=true&vCenter=true&width=1000&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+React.js+Developer;AI-Powered+Application+Developer;Software+Engineer+Intern+%40+CloseKart;Google+Student+Ambassador+-+Gemini+AI;GeeksforGeeks+Campus+Mantri+2026;Building+Scalable+Software" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=28&duration=3000&pause=1200&color=A855F7&center=true&vCenter=true&width=1000&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+React.js+Developer;AI-Powered+Application+Developer;Software+Engineer+Intern+%40+CloseKart;Google+Student+Ambassador+-+Gemini+AI;GeeksforGeeks+Campus+Mantri+2026;Building+Scalable+Software" /> 
 <br/>
 
 ![B.Tech](https://img.shields.io/badge/B.Tech-Information%20Technology-7C3AED?style=for-the-badge)
