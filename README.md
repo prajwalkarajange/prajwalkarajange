@@ -134,8 +134,8 @@ Outside development, I represent **Google's Gemini AI Program** as a **Google St
 | **Architecture** | SaaS • Authentication • Dashboard • Cloud Deployment |
 | **Key Features** | AI Fabric Analysis, PDF Reports, Upload History, Analytics Dashboard |
 | **Impact** | Automated fabric quality inspection workflow by **85%** |
-| **Live Demo** | Add Live Link |
-| **Repository** | Add GitHub Link |
+| **Live Demo** | https://threadcounty-ai-insights1.vercel.app/ |
+| **Repository** | https://github.com/prajwalkarajange/threadcounty-ai-insights1 |
 
 #### Highlights
 
@@ -161,8 +161,8 @@ Outside development, I represent **Google's Gemini AI Program** as a **Google St
 | **Architecture** | REST APIs • Layered Architecture • MVC |
 | **Key Features** | CRUD Operations, Authentication, Job & Applicant Management |
 | **Impact** | Reduced manual recruitment workflow by **80%** |
-| **Live Demo** | Add Live Link |
-| **Repository** | Add GitHub Link |
+| **Live Demo** | https://job-portal-spring-boot-jsp.onrender.com/ |
+| **Repository** | https://github.com/prajwalkarajange/job-portal-spring-boot-jsp |
 
 #### Highlights
 
