@@ -361,17 +361,18 @@ Outside development, I represent **Google's Gemini AI Program** as a **Google St
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)"
-      srcset="https://cdn.jsdelivr.net/gh/prajwalkarajange/prajwalkarajange@output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)"
-      srcset="https://cdn.jsdelivr.net/gh/prajwalkarajange/prajwalkarajange@output/github-snake.svg">
-    <img 
-      alt="github contribution snake animation"
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://cdn.jsdelivr.net/gh/prajwalkarajange/prajwalkarajange@output/github-snake-dark.svg" />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://cdn.jsdelivr.net/gh/prajwalkarajange/prajwalkarajange@output/github-snake.svg" />
+    <img
+      alt="GitHub Contribution Snake"
       src="https://cdn.jsdelivr.net/gh/prajwalkarajange/prajwalkarajange@output/github-snake.svg"
-      width="100%">
+      width="100%" />
   </picture>
 </p>
-
 ---
 
 # 🎯 Current Focus
