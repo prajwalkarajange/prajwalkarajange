@@ -373,7 +373,7 @@ Outside development, I represent **Google's Gemini AI Program** as a **Google St
       width="100%" />
   </picture>
 </p>
----
+
 
 # 🎯 Current Focus
 
