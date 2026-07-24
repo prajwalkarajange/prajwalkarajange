@@ -341,13 +341,6 @@ Beyond development, I serve as a **Google Student Ambassador – Gemini AI Progr
 
 ---
 
-# 🌍 3D Contribution Calendar
-
-<p align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Calendar" width="100%">
-</p>
-
----
 
 ## 🐍 Contribution Snake
 
