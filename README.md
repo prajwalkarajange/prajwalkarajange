@@ -29,9 +29,6 @@
 
 <br/>
 
-![](https://komarev.com/ghpvc/?username=prajwalkarajange\&style=flat-square\&color=7C3AED)
-![](https://img.shields.io/github/followers/prajwalkarajange?style=flat-square\&color=7C3AED)
-![](https://img.shields.io/github/stars/prajwalkarajange?style=flat-square\&color=A855F7)
 
 </div>
 
@@ -39,24 +36,22 @@
 
 # 👨‍💻 About Me
 
-I'm a **Java Full Stack Developer** passionate about designing and developing scalable software solutions that combine modern web technologies with Artificial Intelligence.
+I'm a **Java Full Stack Developer** with experience building scalable web applications using **Java, Spring Boot, React.js, TypeScript, MySQL, and PostgreSQL**.
 
-My expertise includes **Spring Boot, React.js, TypeScript, MySQL, PostgreSQL, REST APIs, Docker, and Generative AI**, with practical experience building production-ready applications, enterprise systems, and AI-powered platforms.
+Currently, I'm working as a **Software Engineer Intern at CloseKart**, where I contribute to frontend and backend development by building reusable React components, developing Java backend modules, and implementing clean, maintainable solutions for production applications.
 
-Currently working as a **Software Engineer Intern at CloseKart**, I focus on building maintainable software, improving application performance, and developing reusable components that follow clean coding principles.
+I enjoy building enterprise applications, AI-powered platforms, and secure backend systems while applying modern software engineering practices such as RESTful API development, database design, authentication, and cloud deployment.
 
-Outside development, I represent **Google's Gemini AI Program** as a **Google Student Ambassador** and serve as a **GeeksforGeeks Campus Mantri**, helping students explore software engineering and AI technologies.
+Beyond development, I serve as a **Google Student Ambassador – Gemini AI Program** and **GeeksforGeeks Campus Mantri 2026**, promoting AI technologies, technical learning, and software engineering within the student developer community.
 
-🚀 I'm always excited to build impactful products, contribute to innovative ideas, and collaborate on challenging software engineering projects.
+🚀 I'm passionate about solving real-world problems through technology and continuously expanding my knowledge in **System Design, Microservices, Cloud Computing, and Generative AI**.
 
-### Open To
+### 💼 Open To
 
-* Software Engineering Internships
-* Full Stack Development Roles
-* AI / ML Projects
-* Open Source Contributions
-* Research Collaborations
-* Product Engineering Opportunities
+- Software Engineering Roles
+- Java Backend Development
+- Full Stack Development
+- Open Source Contributions
 
 ---
 
@@ -107,15 +102,6 @@ Outside development, I represent **Google's Gemini AI Program** as a **Google St
 
 <br><br>
 
-## 📚 Computer Science Fundamentals
-
-<img src="https://img.shields.io/badge/Data%20Structures%20&%20Algorithms-00599C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Object%20Oriented%20Programming-E34F26?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/DBMS-336791?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Microservices-6DB33F?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/MVC%20Architecture-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge"/>
-
 </div>
 
 ---
@@ -133,7 +119,7 @@ Outside development, I represent **Google's Gemini AI Program** as a **Google St
 | **Tech Stack** | React.js • TypeScript • Supabase • Gemini AI • Vercel |
 | **Architecture** | SaaS • Authentication • Dashboard • Cloud Deployment |
 | **Key Features** | AI Fabric Analysis, PDF Reports, Upload History, Analytics Dashboard |
-| **Impact** | Automated fabric quality inspection workflow by **85%** |
+| **Key Outcomes** | Automated fabric quality inspection workflow by **85%** |
 | **Live Demo** | https://threadcounty-ai-insights1.vercel.app/ |
 | **Repository** | https://github.com/prajwalkarajange/threadcounty-ai-insights1 |
 
@@ -160,7 +146,7 @@ Outside development, I represent **Google's Gemini AI Program** as a **Google St
 | **Tech Stack** | Java • Spring Boot • JPA • Hibernate • MySQL • Docker |
 | **Architecture** | REST APIs • Layered Architecture • MVC |
 | **Key Features** | CRUD Operations, Authentication, Job & Applicant Management |
-| **Impact** | Reduced manual recruitment workflow by **80%** |
+| **Key Outcomes** | Reduced manual recruitment workflow by **80%** |
 | **Live Demo** | https://job-portal-spring-boot-jsp.onrender.com/ |
 | **Repository** | https://github.com/prajwalkarajange/job-portal-spring-boot-jsp |
 
@@ -187,7 +173,7 @@ Outside development, I represent **Google's Gemini AI Program** as a **Google St
 | **Tech Stack** | Java • MySQL • AES-256 Encryption • RBAC |
 | **Architecture** | Secure Authentication • Encryption • Role-Based Access |
 | **Key Features** | Credential Management, Password Generator, Secure Storage |
-| **Impact** | Reduced unauthorized access risk by **90%** |
+| **Key Outcomes** | Reduced unauthorized access risk by **90%** |
 | **Repository** | Add GitHub Link |
 
 #### Highlights
@@ -207,7 +193,7 @@ Outside development, I represent **Google's Gemini AI Program** as a **Google St
 **📅 Jun 2026 – Present**  
 **📍 Remote**
 
-> Contributing to the development of scalable web applications using Java and React while collaborating with cross-functional teams to deliver production-ready features.
+> Developing frontend and backend features using Java and React.js while collaborating on production-ready applications.
 
 ### 🚀 Key Contributions
 
@@ -265,17 +251,18 @@ Outside development, I represent **Google's Gemini AI Program** as a **Google St
 
 ---
 
-# Achievements
+# 🏆 Achievements
 
 <div align="center">
 
-| Recognition                      | Details                                                  |
-| -------------------------------- | -------------------------------------------------------- |
-| 🏆 University Topper             | Highest academic performance across engineering branches |
-| 🏆 Department Topper (IT)        | Ranked #1 in Information Technology Department           |
-| 🚀 Hackathon Finalist            | Recognized for innovation and engineering excellence     |
-| 🥇 Codex Java Competition Winner | Competitive programming and software design excellence   |
-| 🌟 Google Student Ambassador     | Selected for Gemini AI Program                           |
+| Achievement | Description |
+|-------------|-------------|
+| 🥇 University Topper | Ranked 1st at Shivaji University |
+| 🥇 Department Topper | Information Technology Department |
+| 🏆 Hackathon Finalist | Recognized for innovative software solutions |
+| 🏅 Codex Java Competition Winner | Demonstrated Java programming excellence |
+| 🌟 Google Student Ambassador | Gemini AI Program |
+| 🚀 GeeksforGeeks Campus Mantri 2026 | Campus representative promoting coding culture |
 
 </div>
 
@@ -378,6 +365,7 @@ Outside development, I represent **Google's Gemini AI Program** as a **Google St
       width="100%" />
   </picture>
 </p>
+
 
 
 # Connect
