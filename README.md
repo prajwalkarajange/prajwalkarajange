@@ -281,23 +281,33 @@ Outside development, I represent **Google's Gemini AI Program** as a **Google St
 
 ---
 
-# Certifications
+# 📜 Certifications
 
-### AWS
+<div align="center">
 
-![AWS](https://img.shields.io/badge/AWS-Certified-FF9900?style=for-the-badge\&logo=amazonaws)
+<a href="https://www.linkedin.com/posts/prajwal-karajange_aws-certificate-activity-7485667197667737600-qHFb">
+<img src="https://img.shields.io/badge/AWS-Cloud%20Certificate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+</a>
 
-### Oracle
+<br><br>
 
-![Oracle](https://img.shields.io/badge/Oracle-Certified-F80000?style=for-the-badge\&logo=oracle)
+<a href="https://www.linkedin.com/posts/prajwal-karajange_webdevelopment-frontenddeveloper-html-activity-7432688120204251137-DktL">
+<img src="https://img.shields.io/badge/Web%20Development-Certified-4285F4?style=for-the-badge"/>
+</a>
 
-### NPTEL
+<br><br>
 
-![NPTEL](https://img.shields.io/badge/NPTEL-Certified-7C3AED?style=for-the-badge)
+<a href="https://www.linkedin.com/posts/prajwal-karajange_amcat-certificate-activity-7448730328887705600-2pQq">
+<img src="https://img.shields.io/badge/AMCAT-Assessment%20Certificate-00A8E8?style=for-the-badge"/>
+</a>
 
-### Cisco
+<br><br>
 
-![Cisco](https://img.shields.io/badge/Cisco-Certified-1BA0D7?style=for-the-badge\&logo=cisco)
+<a href="https://www.linkedin.com/posts/prajwal-karajange_offer-letter-and-internship-completion-certificate-activity-7471430076761468928-HMih">
+<img src="https://img.shields.io/badge/Internship-Completion%20Certificate-34A853?style=for-the-badge"/>
+</a>
+
+<br><br>
 
 ---
 
@@ -329,11 +339,6 @@ Outside development, I represent **Google's Gemini AI Program** as a **Google St
 
 </div>
 
-## 🏆 Developer Insights
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prajwalkarajange&theme=tokyonight" />
-</p>
 
 ---
 
@@ -374,32 +379,6 @@ Outside development, I represent **Google's Gemini AI Program** as a **Google St
   </picture>
 </p>
 
-
-# 🎯 Current Focus
-
-```yaml
-Learning:
-  - System Design
-  - Microservices Architecture
-  - Cloud Computing
-  - Large Language Models (LLMs)
-
-Building:
-  - Enterprise Java Applications
-  - AI-Powered Web Applications
-  - Full Stack SaaS Platforms
-
-Exploring:
-  - Generative AI
-  - Scalable Backend Systems
-  - DevOps & Cloud Deployment
-
-Open_To:
-  - Software Engineer Roles
-  - Java Full Stack Developer Opportunities
-  - AI & Backend Engineering
-  - Innovative Product Development
-```
 
 # Connect
 
