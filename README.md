@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:4F46E5,50:7C3AED,100:A855F7&text=Prajwal%20Karajange&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40" width="100%"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=28&duration=3000&pause=1200&color=A855F7&center=true&vCenter=true&width=1000&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+React.js+Developer;AI-Powered+Application+Developer;Software+Engineer+Intern+%40+CloseKart;Google+Student+Ambassador+-+Gemini+AI;GeeksforGeeks+Campus+Mantri+2026;Building+Scalable+Software" /> 
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=28&duration=3000&pause=1200&color=A855F7&center=true&vCenter=true&width=1000&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+React.js+%7C+TypeScript;Generative+AI+%7C+RAG+Developer;Software+Engineer+Intern+%40+CloseKart;Google+Student+Ambassador+-+Gemini+AI;Building+Scalable+%26+Secure+Software" />
 <br/>
 
 ![B.Tech](https://img.shields.io/badge/B.Tech-Information%20Technology-7C3AED?style=for-the-badge)
@@ -34,24 +34,38 @@
 
 ---
 
-# 👨‍💻 About Me
 
-I'm a **Java Full Stack Developer** with experience building scalable web applications using **Java, Spring Boot, React.js, TypeScript, MySQL, and PostgreSQL**.
+# 👋 Hi, I'm Prajwal Karajange
 
-Currently, I'm working as a **Software Engineer Intern at CloseKart**, where I contribute to frontend and backend development by building reusable React components, developing Java backend modules, and implementing clean, maintainable solutions for production applications.
+### Java Full Stack Developer | Spring Boot | React.js | Generative AI
 
-I enjoy building enterprise applications, AI-powered platforms, and secure backend systems while applying modern software engineering practices such as RESTful API development, database design, authentication, and cloud deployment.
+I'm a **Java Full Stack Developer** who enjoys turning real-world problems into practical, scalable software.
 
-Beyond development, I serve as a **Google Student Ambassador – Gemini AI Program** and **GeeksforGeeks Campus Mantri 2026**, promoting AI technologies, technical learning, and software engineering within the student developer community.
+My core development experience is around **Java, Spring Boot, React.js, TypeScript, MySQL, PostgreSQL, and REST APIs**. I also enjoy working with **Generative AI, RAG systems, vector databases, authentication, and cloud deployment**.
 
-🚀 I'm passionate about solving real-world problems through technology and continuously expanding my knowledge in **System Design, Microservices, Cloud Computing, and Generative AI**.
+Currently, I'm working as a **Software Engineer Intern at CloseKart**, where I contribute to both frontend and backend development, building reusable React components and Java-based application modules for production systems.
 
-### 💼 Open To
+I don't just build projects to learn a technology — I try to understand **how the pieces work together**, from UI and APIs to databases, authentication, deployment, and AI integration.
 
-- Software Engineering Roles
-- Java Backend Development
-- Full Stack Development
-- Open Source Contributions
+---
+
+## 🚀 What I Build
+
+- 🔹 Full Stack Web Applications
+- 🔹 Java & Spring Boot Backend Systems
+- 🔹 RESTful APIs and Secure Authentication
+- 🔹 React.js & TypeScript Applications
+- 🔹 AI-powered Applications and RAG Pipelines
+- 🔹 Database-driven Enterprise Applications
+- 🔹 Cloud-deployed and containerized applications
+
+---
+
+## 🧠 Currently Exploring
+
+**System Design • Microservices • Cloud Computing • Generative AI • RAG • Vector Databases**
+
+I'm particularly interested in understanding how applications move from a simple prototype to **secure, scalable, maintainable production systems**.
 
 ---
 
@@ -105,12 +119,40 @@ Beyond development, I serve as a **Google Student Ambassador – Gemini AI Progr
 </div>
 
 ---
-
-
 # 🚀 Featured Projects
 
 <details open>
-<summary><b>🧵 ThreadCounty – AI Powered Textile Intelligence Platform</b></summary>
+<summary><b>🧠 DocuMind AI – AI-Powered Document Intelligence & RAG Platform</b></summary>
+
+### Full Stack AI Document Intelligence System
+
+| Category | Details |
+|-----------|---------|
+| **Tech Stack** | Java • Spring Boot • React • TypeScript • PostgreSQL • pgvector • Gemini AI |
+| **Architecture** | REST APIs • RAG Pipeline • JWT Authentication • RBAC |
+| **Key Features** | PDF Q&A, Semantic Search, Gemini Embeddings, Vector Search, Source Citations |
+| **Deployment** | Vercel • Render |
+
+#### Highlights
+
+- 🤖 Built a complete **Retrieval-Augmented Generation (RAG)** pipeline for context-aware document Q&A.
+- 📄 Implemented PDF extraction, semantic chunking, and document processing.
+- 🧠 Integrated **Gemini embeddings** with **pgvector** for semantic similarity search.
+- 🔐 Developed secure **Spring Boot REST APIs** with JWT authentication and BCrypt password hashing.
+- 👥 Implemented **role-based access control (USER/ADMIN)** and an admin dashboard.
+- 🎯 Generated grounded AI responses with **document and page-level source citations**.
+- 🗄️ Designed and integrated PostgreSQL-based document and chat data management.
+- ☁️ Deployed the frontend and backend using modern cloud deployment workflows.
+
+**Repository:**  
+https://github.com/prajwalkarajange/documind-ai
+
+</details>
+
+---
+
+<details>
+<summary><b>🧵 ThreadCounty – AI-Powered Textile Intelligence Platform</b></summary>
 
 ### AI-Powered SaaS Platform for Fabric Analysis
 
@@ -118,137 +160,142 @@ Beyond development, I serve as a **Google Student Ambassador – Gemini AI Progr
 |-----------|---------|
 | **Tech Stack** | React.js • TypeScript • Supabase • Gemini AI • Vercel |
 | **Architecture** | SaaS • Authentication • Dashboard • Cloud Deployment |
-| **Key Features** | AI Fabric Analysis, PDF Reports, Upload History, Analytics Dashboard |
-| **Key Outcomes** | Automated fabric quality inspection workflow by **85%** |
-| **Live Demo** | https://threadcounty-ai-insights1.vercel.app/ |
-| **Repository** | https://github.com/prajwalkarajange/threadcounty-ai-insights1 |
+| **Key Features** | AI Fabric Analysis, Upload History, Analytics Dashboard, PDF Reports |
+| **Deployment** | Vercel |
 
 #### Highlights
 
-- 🤖 AI-powered fabric analysis using **Google Gemini AI**
-- 🔐 Secure authentication with **Supabase Auth**
-- 📊 Interactive analytics dashboard
-- 📄 Automated AI report generation with PDF export
-- ☁️ Fully deployed on **Vercel**
-- 📱 Responsive modern UI built with React & TypeScript
+- 🤖 Integrated **Google Gemini AI** for automated fabric/image analysis.
+- 🔐 Implemented secure authentication using **Supabase Auth**.
+- 📊 Built an interactive analytics dashboard for analyzing generated insights.
+- 📄 Added automated AI report generation with **PDF export**.
+- 📂 Implemented upload history for managing previous fabric analyses.
+- 📱 Developed a responsive interface using React.js and TypeScript.
+- ☁️ Deployed the application on **Vercel**.
+
+**Live Demo:**  
+https://threadcounty-ai-insights1.vercel.app/
+
+**Repository:**  
+https://github.com/prajwalkarajange/threadcounty-ai-insights1
 
 </details>
 
 ---
 
 <details>
-<summary><b>💼 Enterprise Job Portal Platform</b></summary>
+<summary><b>🏛️ MahaInnovate – AI-Powered Government Innovation Procurement Platform</b></summary>
 
-### Full Stack Recruitment Management System
+### Startup-Friendly Government Procurement & Innovation Platform
 
 | Category | Details |
 |-----------|---------|
-| **Tech Stack** | Java • Spring Boot • JPA • Hibernate • MySQL • Docker |
-| **Architecture** | REST APIs • Layered Architecture • MVC |
-| **Key Features** | CRUD Operations, Authentication, Job & Applicant Management |
-| **Key Outcomes** | Reduced manual recruitment workflow by **80%** |
-| **Live Demo** | https://job-portal-spring-boot-jsp.onrender.com/ |
-| **Repository** | https://github.com/prajwalkarajange/job-portal-spring-boot-jsp |
+| **Tech Stack** | React • TypeScript • AI • Tailwind CSS |
+| **Architecture** | Role-Based Platform • Workflow Management • Human-in-the-Loop |
+| **Key Features** | Challenge Creation, Startup Discovery, Proposal Evaluation, Pilot Tracking |
+| **Focus** | Government Innovation • Startup Procurement • AI-Assisted Decision Support |
 
 #### Highlights
 
-- ⚙ Built using **Spring Boot** and **Hibernate**
-- 🔗 RESTful API architecture
-- 🗄 Database integration with MySQL
-- 🐳 Dockerized deployment
-- 📦 Maven-based project structure
-- ☁ Cloud deployed application
+- 🏛️ Designed an end-to-end workflow for **government challenges and startup solutions**.
+- 🚀 Implemented startup discovery and solution-matching workflows.
+- 📋 Built proposal evaluation and structured decision-making flows.
+- 📊 Added KPI-based pilot testing and procurement tracking.
+- 🔐 Designed role-based workflows for different platform stakeholders.
+- 🤖 Incorporated **AI-assisted decision support** while keeping humans involved in important decisions.
+- 🎯 Developed the project as a solution for a **Government of Maharashtra Smart India Hackathon problem statement**.
+
+**Live Demo:**  
+https://sih26136-maha-innovate-ymuu-xi.vercel.app/
+
+**Repository:**  
+https://github.com/prajwalkarajange/sih26136-maha-innovate
 
 </details>
 
 ---
-
-<details>
-<summary><b>🔐 SecureVault – Enterprise Password Manager</b></summary>
-
-### Secure Credential Management System
-
-| Category | Details |
-|-----------|---------|
-| **Tech Stack** | Java • MySQL • AES-256 Encryption • RBAC |
-| **Architecture** | Secure Authentication • Encryption • Role-Based Access |
-| **Key Features** | Credential Management, Password Generator, Secure Storage |
-| **Key Outcomes** | Reduced unauthorized access risk by **90%** |
-| **Repository** | Add GitHub Link |
-
-#### Highlights
-
-- 🔒 AES-256 encrypted credential storage
-- 👥 Role-Based Access Control (RBAC)
-- 🔑 Secure authentication system
-- ⚡ Optimized MySQL database queries
-- 🛡 Enterprise-grade security practices
-
-</details>
 
 # 💼 Professional Experience
 
-## 💻 Software Engineer Intern | CloseKart
+<details open>
+<summary><b>💻 Software Engineer Intern – CloseKart</b></summary>
+
+### Software Engineer Intern
 
 **📅 Jun 2026 – Present**  
 **📍 Remote**
 
-> Developing frontend and backend features using Java and React.js while collaborating on production-ready applications.
+> Working across frontend and backend development to build and maintain production-oriented web applications.
 
-### 🚀 Key Contributions
+#### 🚀 Key Contributions
 
 - Developed **10+ reusable React.js components** to improve UI consistency and maintainability.
-- Built backend modules using **Java, Servlets, JSP, and MySQL**.
-- Implemented new features, fixed bugs, and optimized application performance.
-- Collaborated using **Git & GitHub** following clean coding and version control practices.
-- Participated in debugging, testing, and code reviews to ensure software quality.
+- Built Java backend modules using **Servlets, JSP, and MySQL**.
+- Implemented application features across the frontend and backend.
+- Worked on debugging, testing, and resolving application issues.
+- Followed clean-code practices while developing maintainable application modules.
+- Collaborated with the development team using **Git and GitHub**.
+- Participated in the development and improvement of production application workflows.
 
 **🛠 Tech Stack**
 
 `Java` `React.js` `Servlets` `JSP` `MySQL` `Git` `GitHub`
 
+</details>
+
 ---
 
-## ⚙️ Software Development Intern | Code Tech IT Solution
+<details>
+<summary><b>⚙️ Software Development Intern – Code Tech IT Solution</b></summary>
+
+### Software Development Intern
 
 **📅 Apr 2025 – May 2025**  
 **📍 Remote**
 
-> Worked on system-level software projects with a focus on performance optimization, multithreading, and efficient file processing.
+> Worked on software development projects with a focus on programming fundamentals, application logic, and efficient implementation.
 
-### 🚀 Key Contributions
+#### 🚀 Key Contributions
 
-- Developed a **Multithreaded File Compression Tool** in C++.
-- Optimized file handling and processing using multithreading concepts.
-- Applied **Object-Oriented Programming** principles and efficient algorithms.
-- Performed debugging, testing, and code optimization.
-- Used Git for version control and collaborative development.
+- Developed a **Multithreaded Ticket Booking System**.
+- Developed a **Real Estate Management System**.
+- Applied **Object-Oriented Programming** principles during development.
+- Used multithreading concepts to handle concurrent application tasks.
+- Worked on debugging, testing, and improving application functionality.
+- Applied problem-solving and algorithmic thinking to development tasks.
+- Used Git for version control and project management.
 
 **🛠 Tech Stack**
 
-`C++` `Multithreading` `OOP` `File Handling` `Git`
+`C++` `OOP` `Multithreading` `File Handling` `Git`
+
+</details>
 
 ---
 
-## 🤖 Google Student Ambassador – Gemini AI Program | Google
+<details>
+<summary><b>🤖 Google Student Ambassador – Gemini AI Program</b></summary>
+
+### Google Student Ambassador – Gemini AI Program
 
 **📅 Feb 2026 – Present**  
 **📍 Remote**
 
-> Selected to represent Google's Gemini AI initiatives and promote AI awareness within the student developer community.
+> Promoting Generative AI learning and Gemini AI adoption within the student developer community.
 
-### 🚀 Responsibilities
+#### 🚀 Responsibilities
 
-- Organized AI awareness sessions and technical initiatives.
-- Promoted **Google Gemini AI** and Generative AI technologies.
-- Mentored students interested in AI and software development.
-- Built technical communities through workshops and events.
-- Encouraged adoption of modern AI development practices.
+- Promoted **Google Gemini AI** and Generative AI technologies among students.
+- Organized AI awareness activities and technical initiatives.
+- Encouraged students to explore modern AI development tools.
+- Supported technical learning through workshops and community activities.
+- Helped build awareness around practical applications of Generative AI.
 
 **🛠 Skills**
 
 `Generative AI` `Gemini AI` `Leadership` `Community Building` `Public Speaking`
 
+</details>
 ---
 
 # 🏆 Achievements
