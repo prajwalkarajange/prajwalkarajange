@@ -296,7 +296,9 @@ https://github.com/prajwalkarajange/sih26136-maha-innovate
 `Generative AI` `Gemini AI` `Leadership` `Community Building` `Public Speaking`
 
 </details>
----
+
+
+
 
 # 🏆 Achievements
 
@@ -376,17 +378,6 @@ https://github.com/prajwalkarajange/sih26136-maha-innovate
 
 ---
 
-# Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=prajwalkarajange&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
-
-
----
 
 
 ## 🐍 Contribution Snake
